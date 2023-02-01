@@ -1,0 +1,15 @@
+.logout{
+                      padding: 8px 25px;
+                      margin-top: 15px;
+                      font-size: 15px;
+                      font-weight: 500;
+                      border-radius: 5px;
+                      border: none;
+                      background-color: rgb(230, 243, 255);
+                      cursor: pointer;
+                      transition: all 0.3s;
+                    }
+                    
+                    .logout:hover{
+                       transform: scale(1.08);
+                    }
